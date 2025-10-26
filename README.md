@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/procalc-advanced-calculator?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/forks/yourusername/procalc-advanced-calculator?style=social" alt="GitHub forks" />
-  <img src="https://img.shields.io/github/watchers/yourusername/procalc-advanced-calculator?style=social" alt="GitHub watchers" />
+  <img src="https://img.shields.io/github/stars/kartikbhardwaj1111/Calculator?style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/kartikbhardwaj1111/Calculator?style=social" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/watchers/kartikbhardwaj1111/Calculator?style=social" alt="GitHub watchers" />
 </p>
 
 <h3>🎯 A stunning, feature-rich calculator app that redefines mobile calculations</h3>
@@ -181,8 +181,8 @@
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/yourusername/procalc-advanced-calculator.git
-cd procalc-advanced-calculator
+git clone https://github.com/kartikbhardwaj1111/Calculator.git
+cd Calculator
 
 # 📦 Install dependencies
 npm install
@@ -534,7 +534,7 @@ Submit pull request
 
 ```bash
 # 🍴 Fork and clone
-git clone https://github.com/yourusername/procalc-advanced-calculator.git
+git clone https://github.com/kartikbhardwaj1111/Calculator.git
 
 # 🌿 Create feature branch
 git checkout -b feature/amazing-feature
@@ -566,8 +566,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **If you like this project, please consider giving it a ⭐!**
 
-<a href="https://github.com/yourusername/procalc-advanced-calculator">
-  <img src="https://img.shields.io/github/stars/yourusername/procalc-advanced-calculator?style=social" alt="GitHub stars" />
+<a href="https://github.com/kartikbhardwaj1111/Calculator">
+  <img src="https://img.shields.io/github/stars/kartikbhardwaj1111/Calculator?style=social" alt="GitHub stars" />
 </a>
 
 </div>
@@ -597,8 +597,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **💼 LinkedIn**
 <br>
-<a href="https://linkedin.com/in/kartik-bhardwaj" target="_blank">
-  <img src="https://www.linkedin.com/in/kartik-bhardwaj-0b82a8316/" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/kartik-bhardwaj-0b82a8316/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </td>
@@ -606,8 +606,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **🐙 GitHub**
 <br>
-<a href="https://github.com/kartikbhardwaj" target="_blank">
-  <img src="https://github.com/kartikbhardwaj1111" alt="GitHub" />
+<a href="https://github.com/kartikbhardwaj1111" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </td>
