@@ -21,8 +21,7 @@
 <h3>🎯 A stunning, feature-rich calculator app that redefines mobile calculations</h3>
 
 <p align="center">
-  <a href="./Demo.mov">🎥 <strong>Watch Demo</strong></a> •
-  <a href="#-demo">Demo</a> •
+  <a href="#-demo">🎥 <strong>Watch Demo</strong></a> •
   <a href="#-features">Features</a> •
   <a href="#-installation">Installation</a> •
   <a href="#-themes">Themes</a> •
@@ -44,27 +43,38 @@
 <tr>
 <td align="center">
 
-**🎥 Click to Watch Demo**
+**🎥 ProCalc in Action**
 
-[![ProCalc Demo](https://img.shields.io/badge/▶️_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](./Demo.mov)
+<video width="300" controls>
+  <source src="Demo.mov" type="video/mp4">
+  <source src="Demo.mov" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
 
-<br>
+<br><br>
 
 *Experience the smooth animations and beautiful themes!*
+
+**📥 [Download Demo Video](./Demo.mov)** | **🌐 [Online Demo](https://user-images.githubusercontent.com/63164037/136672012-14204a91-3295-4ceb-a07c-b61abb84f8be.mov)**
 
 </td>
 </tr>
 </table>
 
-### 🎮 Interactive Demo
+### 🎮 Alternative Demo Methods
 
 <details>
-<summary>📱 <strong>Click here to view demo video inline</strong></summary>
+<summary>📱 <strong>Click here for more demo options</strong></summary>
 <br>
 
-https://github.com/yourusername/procalc-advanced-calculator/assets/youruserid/Demo.mov
+**Method 1: Direct Link**
+- [📥 Download Demo.mov](./Demo.mov) - Right-click and "Save As" to download
 
-*Note: If the video doesn't load, [click here to download](./Demo.mov)*
+**Method 2: GitHub Raw Link**
+- [🎬 View in Browser](https://github.com/kartikbhardwaj1111/Calculator/raw/main/Demo.mov) - Direct video link
+
+**Method 3: Online Demo**
+- [🌐 External Demo](https://user-images.githubusercontent.com/63164037/136672012-14204a91-3295-4ceb-a07c-b61abb84f8be.mov) - Hosted demo video
 
 </details>
 
@@ -110,6 +120,19 @@ https://github.com/yourusername/procalc-advanced-calculator/assets/youruserid/De
 </td>
 </tr>
 </table>
+
+### 🎯 Demo Highlights
+
+<div align="center">
+
+| Feature | Demo Timestamp | Description |
+|---------|---------------|-------------|
+| 🎨 **Theme Switching** | 0:00-0:15 | Watch seamless transitions between 6 beautiful themes |
+| 🧮 **Calculations** | 0:15-0:30 | See complex calculations performed smoothly |
+| ✨ **Animations** | 0:30-0:45 | Experience buttery smooth 60fps animations |
+| 📱 **Responsive UI** | 0:45-1:00 | Perfect adaptation to different screen sizes |
+
+</div>
 
 </div>
 
