@@ -598,7 +598,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **💼 LinkedIn**
 <br>
 <a href="https://linkedin.com/in/kartik-bhardwaj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://www.linkedin.com/in/kartik-bhardwaj-0b82a8316/" alt="LinkedIn" />
 </a>
 
 </td>
@@ -607,7 +607,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **🐙 GitHub**
 <br>
 <a href="https://github.com/kartikbhardwaj" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://github.com/kartikbhardwaj1111" alt="GitHub" />
 </a>
 
 </td>
